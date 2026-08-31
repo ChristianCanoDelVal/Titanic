@@ -1,2 +1,2 @@
 # Titanic
-Modelo de aprendizaje automatico que estime si sobrevivirias al titanic
+Modelo de aprendizaje automatico que estima si sobrevivirias al titanic
